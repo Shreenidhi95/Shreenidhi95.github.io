@@ -1,4 +1,5 @@
 # Gemeente Oldenzaal
+<img style="float: right;" src="sweco_black.png">
 ## Informatieleveringspecificatie - Openbareverlichting
 
 ### Inleiding
