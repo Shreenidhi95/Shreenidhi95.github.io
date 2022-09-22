@@ -1,5 +1,7 @@
 <img style="float: right;" src="Capture.JPG">
 
+
+
 ## Informatieleveringspecificatie - Openbareverlichting
 
 ### Inleiding
