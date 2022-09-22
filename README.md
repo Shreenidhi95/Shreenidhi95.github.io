@@ -10,13 +10,13 @@ Om asset management optimaal uit te kunnen uitvoeren voeren gedurende de gehele 
 
 ### 1.1 Geodetische eisen
 
-#### Geometrie
+#### 1.1.1 Geometrie
 
-#### Nul-DTM
+#### 1.1.2 Nul-DTM
 
-#### Primaire meetkundige grondslag
+#### 1.1.3 Primaire meetkundige grondslag
 
-#### Bouwkundige opnames en monitoring
+#### 1.1.4 Bouwkundige opnames en monitoring
 
-#### Peil- en leggergegvens
+#### 1.1.5 Peil- en leggergegvens
 
