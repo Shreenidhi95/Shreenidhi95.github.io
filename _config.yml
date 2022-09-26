@@ -1,8 +1,7 @@
 # build settings
 
-title: Informatielevering
-title: specificatie
+title: ILS - Openbareverlichting
 markdown: kramdown
 remote_theme: just-the-docs/just-the-docs
-search_enabled: false
+search_enabled: true
 
