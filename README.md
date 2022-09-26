@@ -1,3 +1,9 @@
+---
+layout: default
+title: Inleiding
+nav_order: 1
+---
+
 <img style="float: right;" src="Capture.JPG">
 
 
