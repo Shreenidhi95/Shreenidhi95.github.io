@@ -1,7 +1,8 @@
 ---
 layout: default
-title: Inleiding
+title: Home
 nav_order: 1
+permalink: /
 ---
 
 <img style="float: right;" src="Capture.JPG">
