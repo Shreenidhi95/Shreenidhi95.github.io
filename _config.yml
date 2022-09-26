@@ -1,6 +1,7 @@
 # build settings
 
-title: Informatieleveringspecificatie
+title: Informatielevering
+specificatie
 markdown: kramdown
 remote_theme: just-the-docs/just-the-docs
 search_enabled: false
