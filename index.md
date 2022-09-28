@@ -10,8 +10,8 @@ permalink: /
 
 
 ## Informatieleveringspecificatie (ILS) - Openbareverlichting (OTL)
-### Sweco standaard
-### Concept versie 28 September 2022
+Sweco standaard
+Concept versie 28 September 2022
 
 <br/>
 
@@ -34,6 +34,7 @@ De ILS uniformeert de data uitwisseling tussen opdrachtgever en opdrachtnemer. M
 (CC-BY)
 
 <br/>
+
 
 ### Status van dit document
 
