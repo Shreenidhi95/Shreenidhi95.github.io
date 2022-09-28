@@ -29,10 +29,9 @@ In de ILS staat:
 De ILS uniformeert de data uitwisseling tussen opdrachtgever en opdrachtnemer. Met aanvullende eisen en wensen kan voldaan worden aan een specifieke projectbehoefte van een organisatie. Zo bevat de Generieke ILS diverse eisenspecificaties voor op te leveren gegevens. Hiermee geeft de opdrachtgever een specifieke invulling aan de informatieleveringscyclus, instructies, formats en productspecificaties.
 
 ### Rechtenbeleid:
-
+<br/>
 <img align="left" width="75" height="50" src="assets/cc-by.svg">      Creative Commons Attribution 4.0 International Public License
 (CC-BY)
-
 
 <br/>
 
@@ -48,46 +47,3 @@ Sweco
 Obsurv
 
 Gemeente Oldenzaal
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#### 1.1.2 Nul-DTM
-
-| Index | Number | Text        | Figure |
-|-------|--------|-------------|--------|
-| A1.1  | 1      | AAAAA       | 12     |
-| A1.2  | 22     | BBBBBBBB    | 23     |
-| A1.3  | 333    | CCCCCCCCCCC | 34     |
-
-#### 1.1.3 Primaire meetkundige grondslag
-
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?
-
-#### 1.1.4 Bouwkundige opnames en monitoring
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
-#### 1.1.5 Peil- en leggergegvens
-
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?
-
-### 1.3 Areaalgegevens
-
