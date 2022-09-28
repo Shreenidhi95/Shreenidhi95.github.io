@@ -6,21 +6,14 @@ permalink: /
 ---
 
 
-<img align="right" width="250" height="150" src="assets/logo.jpg">
+<img align="right" width="250" height="150" src="assets/logo.PNG">
 
 
-## Informatieleveringspecificatie - Openbareverlichting 
-
-<br/>
+## Informatieleveringspecificatie (ILS) - Openbareverlichting (OTL)
 
 <br/>
 
 <br/>
-
-<br/>
-
-<br/>
-
 
 <br/>
 
