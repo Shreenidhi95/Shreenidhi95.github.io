@@ -5,10 +5,6 @@ nav_order: 1
 permalink: /
 ---
 
-<img style="float: right;" src="Capture.JPG">
-
-<div style="text-align: right"> your-text-here </div>
-
 
 ## Informatieleveringspecificatie - Openbareverlichting
 
