@@ -9,8 +9,20 @@ permalink: /
 <img align="right" width="250" height="150" src="assets/logo.jpg">
 
 
-## Informatieleveringspecificatie - Openbareverlichting \
+## Informatieleveringspecificatie - Openbareverlichting 
 
+<br/>
+
+<br/>
+
+<br/>
+
+<br/>
+
+<br/>
+
+
+<br/>
 
 
 ### Inleiding
