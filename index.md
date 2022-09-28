@@ -6,10 +6,12 @@ permalink: /
 ---
 
 
-![Logo](assets/logo.JPG)
+<img align="right" width="250" height="150" src="assets/logo.jpg">
 
 
-## Informatieleveringspecificatie - Openbareverlichting
+## Informatieleveringspecificatie - Openbareverlichting \
+
+
 
 ### Inleiding
 
