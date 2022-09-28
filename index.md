@@ -6,7 +6,7 @@ permalink: /
 ---
 
 
-<img align="left" width="250" height="150" src="assets/oldenzaal.png">     <img align="right" width="250" height="150" src="assets/sweco_black.png">
+![Logo](assets/logo.JPG)
 
 
 ## Informatieleveringspecificatie - Openbareverlichting
