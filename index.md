@@ -15,14 +15,6 @@ permalink: /
 
 <br/>
 
-<br/>
-
-<br/>
-
-<br/>
-
-<br/>
-
 ## Samenvatting
 
 Samenwerken gaat beter als de informatie waarop we bouwen uitwisselbaar, gestructureerd, eenduidig, correct, volledig en herbruikbaar is. De Informatieleveringsspecificatie (ILS) draagt hieraan bij. De ILS is een document met eisen aan de dataleveringen en kan ingezet worden als onderdeel van een contract tussen opdrachtgever en opdrachtnemer.
@@ -35,6 +27,37 @@ In de ILS staat:
 * wijze waarop (bijvoorbeeld gestructureerd via open BIMstandaarden) de data geleverd moet worden
 
 De ILS uniformeert de data uitwisseling tussen opdrachtgever en opdrachtnemer. Met aanvullende eisen en wensen kan voldaan worden aan een specifieke projectbehoefte van een organisatie. Zo bevat de Generieke ILS diverse eisenspecificaties voor op te leveren gegevens. Hiermee geeft de opdrachtgever een specifieke invulling aan de informatieleveringscyclus, instructies, formats en productspecificaties.
+
+### Rechtenbeleid:
+
+<img align="left" width="75" height="50" src="assets/cc-by.svg">      Creative Commons Attribution 4.0 International Public License
+(CC-BY)
+
+
+<br/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 #### 1.1.2 Nul-DTM
 
