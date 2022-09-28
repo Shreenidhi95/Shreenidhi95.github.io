@@ -1,7 +1,7 @@
 ---
 layout: default
-title: 1.0 Informatieleveringcyclus
-nav_order: 2
+title: Bijlagen
+nav_order: 5
 ---
 ## 1.0 Informatieleveringcyclus
 
