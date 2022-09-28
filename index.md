@@ -5,10 +5,6 @@ nav_order: 1
 permalink: /
 ---
 
-<img style="float: right;" src="Capture.JPG">
-
-<div style="text-align: right"> your-text-here </div>
-
 
 ## Informatieleveringspecificatie - Openbareverlichting
 
@@ -38,4 +34,3 @@ Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium dolor
 
 ### 1.3 Areaalgegevens
 
-![maps](hero_mobile_maps_sdks.png)
