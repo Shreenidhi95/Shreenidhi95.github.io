@@ -6,12 +6,7 @@ permalink: /
 ---
 
 
-![GemeenteoldenzaalLogo](C:\Shreenidhi\Github\Shreenidhi95.github.io\assets\oldenzaal.png#left)
-
-img[src*='#left'] {
-    float: left;
-}
-
+<img align="left" width="100" height="100" src="Shreenidhi95.github.io\assets\oldenzaal.png">
 
 ## Informatieleveringspecificatie - Openbareverlichting
 
