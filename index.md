@@ -18,6 +18,10 @@ Concept versie 28 September 2022
 
 <br/>
 
+<br/>
+
+
+
 ## Samenvatting
 
 Samenwerken gaat beter als de informatie waarop we bouwen uitwisselbaar, gestructureerd, eenduidig, correct, volledig en herbruikbaar is. De Informatieleveringsspecificatie (ILS) draagt hieraan bij. De ILS is een document met eisen aan de dataleveringen en kan ingezet worden als onderdeel van een contract tussen opdrachtgever en opdrachtnemer.
