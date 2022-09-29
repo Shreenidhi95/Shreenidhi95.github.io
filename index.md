@@ -37,7 +37,6 @@ De ILS uniformeert de data uitwisseling tussen opdrachtgever en opdrachtnemer. M
 
 <br/>
 
-
 ### Status van dit document
 
 Dit is de concept versie van de standaard. Wijzigingen naar aanleiding van consultaties zijn doorgevoerd. De programmaraad van Geonovum heeft deze standaard goedgekeurd.
