@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Inleiding
+title: Home
 nav_order: 1
 permalink: /
 ---
