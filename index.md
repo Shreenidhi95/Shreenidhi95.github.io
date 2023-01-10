@@ -23,6 +23,8 @@ Samenwerken gaat beter als de informatie waarop we bouwen uitwisselbaar, gestruc
 
 Met de ILS krijgt de opdrachtgever de juiste, actuele assetgegevens/-data van objecten van de opdrachtnemer aangeleverd. Hierdoor kunnen areaalgegevens actueel en op orde worden gehouden. Deze actuele, betrouwbare en complete informatie helpt organisaties bij een optimale uitvoering van assetmanagement, gedurende de gehele life-cycle van assets. 
 
+<iframe title="Doorstroming Dashboard" width="1140" height="541.25" src="https://app.powerbi.com/reportEmbed?reportId=f01c1421-18f5-4a75-9736-deb0f7c126bf&autoAuth=true&ctid=b7872ef0-9a00-4c18-8a4a-c7d25c778a9e" frameborder="0" allowFullScreen="true"></iframe>
+
 In de ILS staat:
 * type data dat geleverd moet worden
 * frequentie van de datalevering
